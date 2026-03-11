@@ -20,3 +20,7 @@ O estudo foi dividido em 2 etapas principais:
 
 ## Conclusão
 As ferramentas modernas de visualizações de dados trazem diversas vantagens em comparação ao Excel, como: conectividade, escalabilidade, segurança, dentre outros. Mas, o Excel ainda possue algumas vantagens que mostram sua relevância no cenário atual, como: facilidade de uso, custo-benefício, caso de uso de prototipagem, etc. Assim, cabe aos gestores analisarem o cenário geral da sua empresa para que possam encaixar as ferramentas mais efetivas para solucionar suas necessidades.
+
+## Recomendação
+É recomendável o download do arquivo do TCC para leitura, já que algumas funcionalidades do documento não funcionam na visualização prévia do Github.
+ * [TCC](https://github.com/Alessandro-coding/trabalho-de-conclusao-do-curso-TCC/blob/main/TCC_final.pdf)
